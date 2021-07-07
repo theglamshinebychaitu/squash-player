@@ -22,12 +22,12 @@ We aim for maximum flexibility with the scoring. We assume that the maximum numb
 
 ### squash-player Screen Shots
 
-![App UI](/tripal.png)
-![App UI](/tripal2.png)
-![App UI](/tripal3.png)
-![App UI](/tripal4.png)
-![App UI](/tripal5.png)
-![App UI](/tripal6.png)
+![App UI](/IMG_5806.PNG)
+![App UI](/IMG_5807.PNG)
+![App UI](/IMG_5808.PNG)
+![App UI](/IMG_5809.PNG)
+![App UI](/IMG_5810.PNG)
+![App UI](/IMG_5811.PNG)
 
 
 
